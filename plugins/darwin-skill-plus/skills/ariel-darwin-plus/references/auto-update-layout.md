@@ -1,6 +1,6 @@
 # 插件市场仓库结构（Claude + Codex 都能装、都能自动更新）
 
-照 kkkariel888/ariel-broll-video 的结构，已实际验证过。`<市场名>` 一般就是仓库名，`<插件名>` 是 skill 名。
+照 nini818726/ariel-broll-video 的结构，已实际验证过。`<市场名>` 一般就是仓库名，`<插件名>` 是 skill 名。
 
 ```
 <仓库>/
