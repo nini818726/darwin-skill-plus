@@ -13,7 +13,7 @@ description: "Darwin Skill Plus（达尔文增强版，基于花叔 darwin-skill
 >
 > 借鉴 Karpathy autoresearch 的自主实验循环，对 skills 进行持续优化。
 > 核心理念：**评估 → 改进 → 实测验证 → 人类确认 → 保留或回滚 → 生成成果卡片**
-> 原版 GitHub: https://github.com/alchaincyf/darwin-skill ｜ 增强版: https://github.com/kkkariel888/darwin-skill-plus
+> 原版 GitHub: https://github.com/alchaincyf/darwin-skill ｜ 增强版: https://github.com/nini818726/darwin-skill-plus
 
 ---
 

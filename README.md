@@ -31,21 +31,21 @@
 ## 安装（装一次，以后作者更新会自动到你手里）
 
 **最省事：让 AI 帮你装**
-把这句话发给 Claude 或 Codex：「帮我安装插件市场 kkkariel888/darwin-skill-plus 里的 darwin-skill-plus，并打开自动更新」
+把这句话发给 Claude 或 Codex：「帮我安装插件市场 nini818726/darwin-skill-plus 里的 darwin-skill-plus，并打开自动更新」
 
 **Claude 桌面 app（Code 页面和 Cowork 都能用）/ 网页版**
-Customize → Plugins → Add → Add marketplace → Add from a repository → 填 `kkkariel888/darwin-skill-plus` → 打开 **Sync automatically** → 装 darwin-skill-plus
+Customize → Plugins → Add → Add marketplace → Add from a repository → 填 `nini818726/darwin-skill-plus` → 打开 **Sync automatically** → 装 darwin-skill-plus
 
 **Claude Code**
 ```
-/plugin marketplace add kkkariel888/darwin-skill-plus
+/plugin marketplace add nini818726/darwin-skill-plus
 /plugin install darwin-skill-plus@darwin-skill-plus
 ```
 装完打开自动更新：`/plugin` → Marketplaces → 选 darwin-skill-plus → Enable auto-update（第三方市场默认是关的）
 
 **Codex**
 ```bash
-codex plugin marketplace add kkkariel888/darwin-skill-plus
+codex plugin marketplace add nini818726/darwin-skill-plus
 codex plugin add darwin-skill-plus@darwin-skill-plus
 ```
 
